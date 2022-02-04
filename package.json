@@ -1,6 +1,6 @@
 {
   "name": "test-heroku",
-  "main": "src/server.js",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.17.2",
     "morgan": "^1.10.0"
